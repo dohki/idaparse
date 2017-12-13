@@ -1,0 +1,1 @@
+{"dev_names": ["\\\\Device\\\\VrFsFtS", "\\\\DosDevices\\\\VrFsFtS"], "ioctl_sets": {"0x826900C8": [null, null], "0x8269014C": [null, null], "0x82690168": ["3", "4"]}}
